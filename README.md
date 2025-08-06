@@ -38,7 +38,7 @@ The experiment demonstrates how an analog sine wave can be converted into comple
 ---
 
 ### **Simulation Results**
-![PWM Waveforms](Simulation_Waveforms.png)  
+![PWM Waveforms](https://github.com/Sayantan-Maity-hub/Analog_System_Lab_PWM_Modulator/blob/main/LTspice_output.png)  
 - Top: \(V_{in+}\), ramp, and VPWM_P  
 - Bottom: \(V_{in-}\), ramp, and VPWM_N  
 - Complementary PWM is observed.
