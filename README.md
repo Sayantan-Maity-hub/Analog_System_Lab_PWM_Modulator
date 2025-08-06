@@ -16,7 +16,8 @@ The experiment demonstrates how an analog sine wave can be converted into comple
 ---
 
 ### **Circuit Diagram**
-![Circuit Schematic](Circuit_Schematic.png)
+![Circuit Schematic](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/19ea6979-28f2-4e2f-a2f0-a6ab8b8c2ba1" />
+)
 
 ---
 
