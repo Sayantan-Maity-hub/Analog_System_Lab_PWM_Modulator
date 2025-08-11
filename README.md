@@ -54,6 +54,9 @@ The experiment demonstrates how an analog sine wave can be converted into comple
 6. (Optional) Pass PWM outputs through RC filter (fc ≈ 1–2 kHz) to recover sine wave.
 
 ---
+### **Hardware Steps**
+![Circuit]()
+![Output]()
 
 ### **Author**
 **Sayantan Maity**  
