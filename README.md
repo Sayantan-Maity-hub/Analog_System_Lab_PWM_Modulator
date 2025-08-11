@@ -55,7 +55,7 @@ The experiment demonstrates how an analog sine wave can be converted into comple
 
 ---
 ### **Hardware Steps**
-![Circuit]()
+![Circuit](https://github.com/Sayantan-Maity-hub/Analog_System_Lab_PWM_Modulator/blob/main/WhatsApp%20Image%202025-08-10%20at%2019.43.00_2d76ec53.jpg)
 ![Output]()
 
 ### **Author**
